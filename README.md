@@ -13,7 +13,7 @@ O **Tech News** é um portal de notícias desenvolvido para agregar e exibir as 
 
 ## 🖥️ Preview
 
-![Preview do Portal](./assets/images/Image%2002.png)
+![Preview do Portal](./assets/images/readme.png)
 
 ---
 
@@ -141,4 +141,4 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-<p align="center">Feito com ❤️ por Leonardo Silva</p>
+<p align="center">Feito por Leonardo Silva</p>
