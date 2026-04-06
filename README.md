@@ -56,12 +56,12 @@ Nenhuma dependência externa é necessária. Basta ter um navegador moderno inst
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/leonardoSilva0022/portal_de_noticias.git
+   https://github.com/leonardoSilva0022/fullstack-projeto-portal-de-noticias.git
    ```
 
 2. **Acesse a pasta do projeto:**
    ```bash
-   cd portal_de_noticias
+   cd fullstack-projeto-portal-de-noticias
    ```
 
 3. **Abra o arquivo principal no navegador:**
