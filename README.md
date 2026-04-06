@@ -13,7 +13,7 @@ O **Tech News** é um portal de notícias desenvolvido para agregar e exibir as 
 
 ## 🖥️ Preview
 
-![Preview do Portal](./assets/images/Image%2001.png)
+![Preview do Portal](./assets/images/Image%2002.png)
 
 ---
 
