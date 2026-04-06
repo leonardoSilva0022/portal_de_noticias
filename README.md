@@ -131,7 +131,7 @@ Contribuições são bem-vindas! Siga os passos abaixo:
 
 Desenvolvido por **Leonardo Silva**
 
-[![GitHub](]https://github.com/leonardoSilva0022)
+[![GitHub](https://img.shields.io/badge/GitHub-leonardoSilva0022-black?style=flat-square&logo=github)](https://github.com/leonardoSilva0022)
 
 ---
 
